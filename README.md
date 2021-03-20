@@ -20,3 +20,6 @@ IPFS Chainlink Integration Toolkit
 
 ### IPFS ChainLink External Adaptor 
 - https://github.com/PatrickAlphaC/ipfs_cl_ea
+
+### ChainLink Integration to Aeternity
+- https://github.com/cybermonkj/ChainLink
