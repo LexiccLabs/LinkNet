@@ -14,3 +14,9 @@ IPFS Chainlink Integration Toolkit
 
 ### Prediction Markets and ChainLink
 - https://github.com/viswanathkgp12/guess-wise
+
+### ChainLink Collateral Price Data
+- https://github.com/reflexer-labs/geb-chainlink-median
+
+### IPFS ChainLink External Adaptor 
+- https://github.com/PatrickAlphaC/ipfs_cl_ea
